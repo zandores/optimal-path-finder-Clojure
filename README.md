@@ -1,4 +1,4 @@
-# Optimal Path Finder in Clojure
+# optimal-path-finder-Clojure
 
 This is a Clojure project that reads a grid from a file and finds the optimal path through the grid to maximize the collection of gold.
 
@@ -52,4 +52,4 @@ The project contains several functions:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
