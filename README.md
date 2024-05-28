@@ -31,7 +31,17 @@ The main function takes a filename as an argument. The file should contain a gri
 ```bash
 clj -M src/user.clj <file>
 ```
-Example:
+### Example
+
+map.txt
+```txt
+(
+	(5, 9, 1),
+	(6, -5, -1),
+	(0, 4, 1)
+)
+```
+Terminal
 ```bash
 clj -M src/user.clj map.txt
 ```
